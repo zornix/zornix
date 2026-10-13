@@ -10,7 +10,7 @@
 
 ## What I'm building
 
-### I'm currently working on FraternityOS — organization management software, from user interviews to production
+### I'm currently working on FraternityOS — organization management software for student-led organizations
 
 An operations platform serving **50+ users**, bringing attendance, treasury, membership, and officer workflows into one place. I own the product from discovery and design through implementation, deployment, and maintenance, with **50+ user interviews** informing its development.
 
