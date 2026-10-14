@@ -16,7 +16,7 @@ An operations platform serving **50+ users**, bringing attendance, treasury, mem
 
 Built with **React, TypeScript, FastAPI, and PostgreSQL**. The engineering work includes tenant isolation, role-based permissions, an append-only financial ledger with integer-cents accounting, as well as idempotent transactions, atomic audit logging and automated tests enforced through CI.
 
-**The current production and development code lives in the private GuildOS repository.** This is the product described as **GreekOS** on my resume (can you tell I had trouble choosing a name?).
+**The current production and development code lives in the private FraternityOS repository.** This is the product described as **GreekOS** on my resume (can you tell I had trouble with the name?).
 
 Want to see where it started? [GuildOS](https://github.com/zornix/GuildOS) is the public **earliest prototype (v0.1)** that I built with AI tools as a proof-of-concept for my fraternity, preserved as a look at the project's beginnings. It predates the production architecture and features described above.
 
