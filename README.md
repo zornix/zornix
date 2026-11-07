@@ -2,7 +2,7 @@
 
 ### I'm a data scientist and software developer who enjoys understanding people's problems and building software that makes their lives easier. I'm particularly interested in the intersection of software engineering, entrepreneurship, and human-centered design. I like taking ideas from initial conversations all the way to working products, with a focus on making technology both useful and usable.
 
-### I hold a B.S. in Data Science and a Computer Science minor from UC Davis. 
+### I hold a B.S. in Data Science and a minor in Computer Science from UC Davis. 
 
 [LinkedIn](https://www.linkedin.com/in/mshikhaleev/) · [Email](mailto:shikhaleevmd@gmail.com)
 
